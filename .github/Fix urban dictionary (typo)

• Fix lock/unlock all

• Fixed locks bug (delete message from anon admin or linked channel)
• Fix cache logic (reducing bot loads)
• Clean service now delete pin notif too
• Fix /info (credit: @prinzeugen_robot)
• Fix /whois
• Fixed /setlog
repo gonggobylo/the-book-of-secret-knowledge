@@ -1,0 +1,10 @@
+Fix urban dictionary (typo)
+
+• Fix lock/unlock all
+
+• Fixed locks bug (delete message from anon admin or linked channel)
+• Fix cache logic (reducing bot loads)
+• Clean service now delete pin notif too
+• Fix /info (credit: @prinzeugen_robot)
+• Fix /whois
+• Fixed /setlog
